@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
  * add -prints add two numbers
- *@i: print int a
- *@k: print int b
+ *@a: print int a
+ *@b: print int b
  * Return: Always 0.
  */
 int add(int a, int b)
