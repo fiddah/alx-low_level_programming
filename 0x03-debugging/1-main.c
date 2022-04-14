@@ -9,7 +9,11 @@ int i;
 printf("Infinite loop incoming :(\n");
 i = 0;
 /*
-*Infinite loop - i will remain 0 because No increase of variable
+*while (i < 10)
+*{
+*Infinite loop - there is No increase of variable
+*putchar(i);
+}
 */
 printf("Infinite loop avoided! \\o/\n");
 return (0);
