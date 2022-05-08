@@ -5,7 +5,6 @@
 /**
  * check_num - check - string there are digit
  * @str: array str
- *
  * Return; Always 0 (Success)
  */
 int check_num(char *str)
@@ -27,7 +26,6 @@ return (1);
  * main - Print the name of the program
  * @argc: Count arguments
  * @argv: Arguments
- *
  * return: Always 0 (Success)
  */
 int main(int argc, char *argv[])
