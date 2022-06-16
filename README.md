@@ -1,1 +1,1 @@
-Static Library
+Bit Manipulation
